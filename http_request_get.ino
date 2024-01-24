@@ -2,8 +2,8 @@
 #include <HTTPClient.h>;
 #include <ArduinoJson.h>;
 
-const char* ssid = "Oalis";
-const char* password = "oalis636807";
+const char* ssid = "network-name";
+const char* password = "network-password";
 
 void setup() {
   Serial.begin(115200);

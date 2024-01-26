@@ -2,6 +2,8 @@
 Esse é um projeto bem simples utilizando o Esp32 para fazer requisições HTTP, no caso do tipo GET.
 Embora simples, é um projeto que para mim abre um mundo para meus projetos usando Sistemas Embarcados.
 
+Construi esse código através do vídeo ["ESP32 GET JSON from API - ESP32 GET request from API receive JSON"](https://www.youtube.com/watch?v=cgoCmYLeaSI&list=PL7818dFy-SV84QoQNdNdv2WzIrbhkN1do&index=2) do [Asali](https://www.youtube.com/@asali-channel) falando sobre justamente como fazer requisições HTTP com o Esp32.
+
 ## Desafios
 - Conectar o Esp32 ao Wifi;
 - Fazer requisições HTTP;

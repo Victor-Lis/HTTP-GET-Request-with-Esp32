@@ -9,6 +9,11 @@ Construi esse código através do vídeo ["ESP32 GET JSON from API - ESP32 GET r
 - Fazer requisições HTTP;
 - Trabalhar com JSON usando C++.
 
+## Techs
+<div align="center">
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="Arduino">
+</div>
+
 ## Aprendizados
 
 ### Conectando no Wifi

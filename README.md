@@ -1,4 +1,4 @@
-# HTTP GET Request with Esp32
+# EcoPlay Esp32
 Esse é um projeto bem simples utilizando o Esp32 para fazer requisições HTTP, no caso do tipo GET.
 Embora simples, é um projeto que para mim abre um mundo para meus projetos usando Sistemas Embarcados.
 
